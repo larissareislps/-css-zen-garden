@@ -1,0 +1,39 @@
+/* Cor de fundo da página */
+body {
+    background-color: #F7D2BE; /* Cor de fundo suave */
+    color: #333333; /* Cor do texto (um tom de cinza escuro para contraste) */
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Cor para os títulos */
+  h1 {
+    color: #F5A042; /* Laranja claro */
+  }
+  
+  h2 {
+    color: #F58243; /* Laranja mais forte */
+  }
+  
+  /* Links */
+  a {
+    color: #F56142; /* Laranja avermelhado para links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #F53838; /* Cor vermelha quando o link é hover (passado o mouse por cima) */
+  }
+  
+  /* Botões */
+  button {
+    background-color: #F5B840; /* Amarelo dourado */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #F56142; /* Altera para o laranja avermelhado quando o botão é hover */
+  }
+  
